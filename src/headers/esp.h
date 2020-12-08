@@ -105,6 +105,7 @@ public:
     double *pressure_h;
     double *temperature_h;
     double *Mh_h;
+    double *diffmh_h;
     double *W_h;
     double *Wh_h;
 
